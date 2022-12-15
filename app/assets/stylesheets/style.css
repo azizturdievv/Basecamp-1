@@ -12,7 +12,7 @@
     font-family: sans-serif;
     text-transform: uppercase;
     margin-top: -15%;
-    font-size: 3em;
+    font-size: 100px;
     letter-spacing: 4px;
     overflow: hidden;
     background: linear-gradient(80deg,yellow, green, blue);
@@ -32,4 +32,14 @@
     100% {
     background-position: 500%;
     }
+}
+
+.d-block img
+{
+    width: 350px;
+    margin-left: 200px;
+}
+img{
+    margin-top: -10%;
+
 }
