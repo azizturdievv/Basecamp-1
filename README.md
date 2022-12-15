@@ -15,9 +15,9 @@ TODO - My Basecamp Part 1
             gem 'nested_scaffold'
 ## Installation   
 ```
-bundle install
-rails db:migrate
-rails s
+1. bundle install
+2. rails db:migrate
+3. rails s
 ```
 
 ## Usage
